@@ -50,6 +50,6 @@ CodeConnect é uma interface web para cadastro de projetos de tecnologia, permit
 
 Esse projeto foca na manipulação de DOM, leitura de arquivos com `FileReader`, promessas assíncronas e feedback visual ao usuário. Foi idealizado como uma prática criativa para desenvolvimento front-end sem frameworks.
 
-## ✨ Autor(a)
+## ✨ Autora
 
 Feito por [Lívia Nogueira](https://github.com/livinhauai)
